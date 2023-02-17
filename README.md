@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=klistof)
+![alt text](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=klistof](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=klistof)
 
 <!--
 **Klistof/klistof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
