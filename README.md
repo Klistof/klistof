@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristóf</h1>
 <h3 align="center">A passionate frontend developer from Hungary</h3>
 
-<p align="center"><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&badges=3&username=klistof&branding=false&badges=2&show-avatar=true&width=400&style=--header-bg-color:%23000;--border-radius:10px;.png?raw=true" alt="klistof" /></p>
+<p align="center"><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&badges=3&username=klistof&branding=false&badges=2&show-avatar=true&width=400&style=--header-bg-color:%23000;.png?raw=true" alt="klistof" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
