@@ -19,8 +19,9 @@
 <table><tr><td valign="top" width="33%">
 
 
-
-### FrontEnd  
+<div align="center">
+Frontend  
+</div>
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -37,8 +38,9 @@
 </td><td valign="top" width="33%">
 
 
-
-### BackEnd  
+<div align="center">
+Backend  
+</div>
 <div align="center">  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -51,8 +53,9 @@
 </td><td valign="top" width="33%">
 
 
-
-### Other  
+<div align="center">
+Other  
+</div>
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
@@ -68,7 +71,7 @@
 <br/>  
 
 
-## Codersrank
+## Coder's Rank
   
 <div align="center">
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&badges=3&username=klistof&branding=false&badges=2&show-avatar=true&width=400&style=--header-bg-color:%23000;.png?raw=true" align="center" height="180" width="300" />
