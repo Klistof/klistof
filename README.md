@@ -71,16 +71,6 @@ Other
 <br/>  
 
 
-## Coder's Rank
-  
-<div align="center">
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&badges=3&username=klistof&branding=false&badges=2&show-avatar=true&width=400&style=--header-bg-color:%23000;.png?raw=true" align="center" height="180" width="300" />
-</div>  
-  
-
-<br/>  
-
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
